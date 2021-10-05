@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 988gbb@gmail.com
+	name = Aleksa Mikic
